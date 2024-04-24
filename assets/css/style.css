@@ -40,7 +40,7 @@
   );
   --bg-gradient-green-2: linear-gradient(
     135deg, 
-    hsla(45, 100%, 71%, 0.251) 0%, 
+    hsla(120, 100%, 51%, 0.373) 0%, 
     hsla(35, 100%, 68%, 0) 59.86%
   ), hsl(240, 2%, 13%);
   --border-gradient-onyx: linear-gradient(
@@ -398,7 +398,7 @@ main {
 }
 
 .info_more-btn:hover,
-.info_more-btn:focus { background: var(--bg-gradient-green-1); }
+.info_more-btn:focus { background: #ffffffc6;; }
 
 .info_more-btn:hover::before,
 .info_more-btn:focus::before { background: var(--bg-gradient-green-2); }
