@@ -134,6 +134,7 @@
   font-style: normal;
 
 }
+
 /*-----------------------------------*\
   #RESET
 \*-----------------------------------*/
@@ -354,6 +355,7 @@ main {
   background: var(--bg-gradient-onyx);
   border-radius: 20px;
   max-height: 150px;
+
 }
 
 
